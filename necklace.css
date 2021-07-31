@@ -1,0 +1,21 @@
+.col-sm-3 {
+      width: 25%;
+      float: left;
+      position: relative;
+ }
+
+ .row img{
+      width: 50%;
+      length: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block
+
+ }
+
+ .row h2{
+      font-size: 15px;
+      text-align: center;
+ }
+
+ 
